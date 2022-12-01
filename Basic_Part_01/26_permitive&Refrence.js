@@ -36,6 +36,7 @@ console.log(num2);
 ///
 /// example  Reference Values
 //
+//
 
 let array1 = ["item1", "item2"];
 let array2 = array1;
