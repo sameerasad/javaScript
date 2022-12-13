@@ -68,3 +68,11 @@ function multiply(multiple_num) {
 const multiply10 = multiply(2);
 // const my = multiply10();
 console.log(multiply10());
+
+
+//init
+
+
+const multiply10s = multiply(2);
+// const my = multiply10();
+console.log(multiply10());
